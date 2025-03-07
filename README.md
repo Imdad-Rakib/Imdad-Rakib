@@ -1,10 +1,10 @@
-# Hi there, I'm Rakib! 👋
+# Hi there, I'm Raqib! 👋
 
 ## 🚀 About Me
 I'm a passionate software developer, deeply interested in system design, scalability, and performance optimization. My journey revolves around building efficient and scalable systems, exploring AI, and diving deep into parallel computing.
 
 ## 🛠️ Tech Stack & Interests
-- **Backend:** Python (Flask, FastAPI, Django), GO
+- **Backend:** Python, GO
 - **Infrastructure:** Docker, Kubernetes (Exploring)
 - **Scalability & Performance:** Parallelism, Multi-threading, Load Balancing
 - **Machine Learning & AI:** Sentiment Analysis, Deep Learning (Exploring)
@@ -20,7 +20,5 @@ I'm a passionate software developer, deeply interested in system design, scalabi
 
 ## 🌱 Current Endeavors
 - Participating in a **4-month Learnathon** (Python Stack)
-- Researching **server scalability**
-- Exploring **Deep Learning & AI**
 - Learning **Kubernetes** for better container orchestration
 
