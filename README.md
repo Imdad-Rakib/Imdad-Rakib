@@ -1,24 +1,38 @@
-# Hi there, I'm Raqib! 👋
+# Imdad Raqib
 
-## 🚀 About Me
-I'm a passionate software developer, deeply interested in system design, scalability, and performance optimization. My journey revolves around building efficient and scalable systems, exploring AI, and diving deep into parallel computing.
+## 🎓 Academics
+Final year BSc student in Computer Science and Engineering at Chittagong University of Engineering & Technology (CUET)
 
-## 🛠️ Tech Stack & Interests
-- **Backend:** Python, GO
-- **Infrastructure:** Docker, Kubernetes (Exploring)
-- **Scalability & Performance:** Parallelism, Multi-threading, Load Balancing
-- **Machine Learning & AI:** Sentiment Analysis, Deep Learning (Exploring)
-- **Design Patterns & Architecture:** Resource Management, Server Scalability
+## 👨‍💻 Professional Summary
+Software developer passionate about system design, scalability, and performance optimization. Focused on learning to build efficient and robust systems.
+
+## 🛠️ Technical Expertise
+
+### Core Technologies
+- **Languages:** Javascript, Python, Go
 - **Databases:** PostgreSQL, Redis, MongoDB
-- **Competitive Programming:** Algorithmic problem-solving, Data Structures, and participating in coding contests
+- **Infrastructure:** Docker, Kubernetes (in progress)
 
-## 📚 What I Enjoy
-- Low-level optimizations in **system design** & **performance engineering**
-- Reading **philosophical books**, **science journals**, and learning about **different religions**
-- Working on **team projects** and solving real-world challenges
-- **Competitive Programming (CP)** to sharpen my problem-solving skills
+### Areas of Focus
+- **System Architecture:** Scalable design patterns, resource management, service optimization
+- **DevOps & CI/CD:** Container orchestration, infrastructure as code, automated deployment pipelines
+- **Cloud Infrastructure:** Containerization with Docker, scaling strategies, microservices architecture
+- **Linux Ecosystem:**  Scripting, system administration, security implementation
 
-## 🌱 Current Endeavors
-- Participating in a **4-month Learnathon** (Python Stack)
-- Learning **Kubernetes** for better container orchestration
 
+## 🏆 Competitive Programming
+- **Codeforces:** Specialist
+- **Experience:** Solved problems across multiple online judges including LeetCode, HackerRank, and CodeChef
+- **Skills:** Advanced algorithms, data structures, optimization techniques
+
+## 🚀 Current Endeavour
+- Expanding knowledge in container orchestration with Kubernetes
+- Implementing performance optimizations for distributed systems
+
+## 🔍 Professional Interests
+- Low-level system optimizations
+- Advanced scalability solutions
+- AI/ML integration with traditional systems
+
+## 📫 Contact
+- **Email:** imdadraqib@gmail.com
